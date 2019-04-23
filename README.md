@@ -1,3 +1,3 @@
 # time-machine
-git reflog
+git reflog undo历史
 git cherry-pick
